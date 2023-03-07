@@ -1,0 +1,18 @@
+   0 cd /tmp
+   1 touch adam
+   2 ls
+   3 cd /
+   4 mkdir home/humans
+   5 ls /home
+   6 cp tmp/adam home/humans
+   7 ls home/humans
+   8 touch tmp evA
+   9 ls tmp
+  10 touch tmp/evA
+  11 ls tmp
+  12 mv tmp/evA opt/eve
+  13 ls tmp
+  14 ls opt
+  15 mv opt/eve home/humans
+  16 ls home/humans
+  17 history > history.txt | export_file history.txt

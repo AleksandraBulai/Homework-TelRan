@@ -1,0 +1,9 @@
+   0 cd /home
+   1 mkdir animals
+   2 ls
+   3 cd /home/animals
+   4 mkdir dogs |mkdir cats |mkdir fish
+   5 ls
+   6 touch dogs/pluto |> cats/garfield |>> fish/nemo
+   7 tree
+   8 history> history.txt | export_file history.txt

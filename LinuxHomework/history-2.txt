@@ -1,9 +1,7 @@
-   0 cd /home
-   1 mkdir animals
-   2 ls
-   3 cd /home/animals
-   4 mkdir dogs |mkdir cats |mkdir fish
-   5 ls
-   6 touch dogs/pluto |> cats/garfield |>> fish/nemo
-   7 tree
-   8 history> history.txt | export_file history.txt
+   0 mkdir -p /home/user/start /opt/task && touch /home/user/start/1.txt /opt/task/start.txt
+   1 echo "Start" >> /home/user/start/1.txt
+   2 date >> /home/user/start/1.txt && cp /home/user/start/1.txt /opt/task/start.txt
+   3 cat /opt/task/start.txt
+   4 ls -la / | tail -4 >> /opt/task/start.txt 
+   5 history > history.txt && export_file gistory.txt
+   6 history > history.txt && export_file history.txt

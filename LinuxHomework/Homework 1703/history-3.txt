@@ -1,0 +1,5 @@
+   0 nano
+   1 chmod +x myfirstbashscript.sh 
+   2 ./myfirstbashscript.sh 
+   3 export_file myfirstbashscript.sh 
+   4 history>history.txt | export_file history.txt

@@ -1,0 +1,11 @@
+   0 nano sleeper.sh
+   1 chmod 744 sleeper.sh 
+   2 ./sleeper.sh 
+   3 nano sleeper.sh 
+   4 ./sleeper.sh 
+   5 nano sleeper.sh 
+   6 ./sleeper.sh 
+   7 tree
+   8 export_fele sleeper.sh 
+   9 export_file sleeper.sh 
+  10 history > history.txt | export_file history.txt

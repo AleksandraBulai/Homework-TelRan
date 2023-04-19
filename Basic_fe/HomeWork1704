@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HomeWork1704</title>
+</head>
+<body>
+    <h1>hello</h1>
+    <h2>how are you?</h2>
+    <h3>what are u doing?</h3>
+    <h4>bla bla bla</h4>
+    <h5>fhffufhfh</h5>
+    <h6>hfhfhfdnsoo38484nf</h6>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur voluptates et optio voluptatem ea! Amet qui eligendi quod temporibus! Numquam quibusdam ipsa cumque facere animi blanditiis corporis itaque nobis exercitationem.</p>
+<p>Lorem ipsum dolor sit amet.</p>
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<img src="https://best-espana.com/thumb/2/XoqvEfbCzfA44u0_Zz0iyQ/r/d/benidorm-ispaniya-kosta-blanka-03.jpg" alt="">
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="./Vista_de_Benidorm,_España,_2014-07-02,_DD_67.JPG"alt=>
+<ol>
+    <li>worker1</li>
+    <li>worker2</li>
+    <li>worker3</li>
+    </ol>
+
+    <ul>
+        <li>worker1</li>
+        <li>worker2</li>
+        <li>worker3</li>
+    </ul>
+</body>
+</html>

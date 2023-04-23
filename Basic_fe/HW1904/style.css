@@ -1,0 +1,88 @@
+img {
+    width: 30px;
+    height: 30px;
+}
+.box {
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+    margin: 100px;
+    border: 15px;
+    padding: 100px 40px 20px 80px;
+    /* margin-top:;
+    /*-----------*/
+    border-bottom: 10px solid;
+    border-top: 15px double black;
+    border: bottom left radius 50px; ;
+    box-shadow: 10px 2px 4px 5px greenyellow; 
+}
+p{
+    text-shadow: 2px 8px 7px violet;
+}
+h2 {
+    /* color: name; */
+    color: #3498db;
+    color: rgb(red, green, blue)
+}
+
+.block {
+    width: 100px;
+    height: 150px;
+    background-color: beige;
+    margin: 50px;
+}
+
+.block2 {
+    width: 150px;
+    height: 150px;
+    background-color: coral;
+    margin: 100px;
+}
+.hover{
+    color:rgb(rgb(36, 106, 20), green, blue)
+}
+.hover:hover{
+    color: #3498db;
+
+}
+.hover:hover{
+    color: #1abc9c
+}
+.hover:hover{
+    color: #9b59b6
+}
+
+.link{
+    color: black;
+
+}
+ .link:active{
+    color: cornflowerblue;
+
+ }
+ .visited:visited{
+    color: #d35400
+
+ }
+h2{
+    text-align: center;
+    text-decoration: double; color: #3498db;
+    border-radius: 50px; 
+
+}
+.media img{
+    width: 380px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.about_me{
+    text-align: left;
+    text-decoration: wavy;
+    color: darkblue;
+
+}
+.social_media{
+    color: black;
+}
